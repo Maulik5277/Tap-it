@@ -9,4 +9,4 @@
 - UIAlertView
 ## Screenshot
 ##### Page 1
-![Page 1](UITemplet/page1.png)
+![Page 1](SS/P1.png)
