@@ -25,7 +25,7 @@
 ![Page 1](SS/P5.png)
 
 ##### Page 6
-![Page 1](SS/P6.png)
+![Page 1](SS/P7.png)
 
 ##### Page 7
-![Page 1](SS/P7.png)
+![Page 1](SS/P6.png)
